@@ -1,9 +1,5 @@
 # 🎨 Logo Dataset by thetemirbolatov
 
-[![Images](https://img.shields.io/badge/Total_Images-5000+-green.svg)]()
-[![Resolution](https://img.shields.io/badge/Resolution-1024x1024-orange.svg)]()
-[![Format](https://img.shields.io/badge/Format-PNG-blue.svg)]()
-
 > **5000+ уникальных логотипов для обучения нейросетей**
 > Создано [@thetemirbolatov](https://github.com/thetemirbolatov)
 
