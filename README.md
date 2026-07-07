@@ -93,17 +93,6 @@ model.fit(dataset, epochs=50)
 
 ---
 
-## 🤖 Модели
-
-Предобученные модели для генерации логотипов:
-
-| Модель | Скачать |
-|--------|---------|
-| LogoGenius AI v1 | [model_v1.pkl](models/LogoGenius_AI_v1.pkl) |
-| LogoGenius AI v2 | [model_v2.pkl](models/LogoGenius_AI_v2_enhanced.pkl) |
-
----
-
 ## 📝 Лицензия
 
 MIT License - можно использовать свободно в любых проектах.
